@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#Contact list files
+*List_of_Contacts.txt
